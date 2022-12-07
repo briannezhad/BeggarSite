@@ -1,4 +1,9 @@
 /* your styles go here */
+
+.text-primary {
+    color: #732372 !important;
+}
+
 .btn-primary {
     color: #fff;
     background-color: #732372;
